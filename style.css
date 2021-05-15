@@ -1,0 +1,72 @@
+h1{
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  cursor: pointer;
+  background-color: rgb(217, 255, 0);
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  border: 2px solid #e7e7e7;
+  width: 250px;
+  border-radius: 10%;
+}
+.btn:hover {
+  background-color: rgb(0, 255, 0);
+  color: black;
+  border: 3px solid black;
+  color: rgb(0, 0, 0);
+}
+body{
+    background: url(https://png.pngtree.com/png-clipart/20200810/ourmid/pngtree-beautiful-colorful-bokeh-blurred-background-defocused-lights-png-image_2323365.jpg);
+    background-size: cover;
+    color: black;
+}
+h2{
+  text-align: center;
+}
+p{
+  font-size:18px;
+  color:black;
+}
+.program{
+  padding: 50px;
+}
+marquee{
+  background-color: rgb(0, 0, 0);
+  size: 10px;
+  color: white;
+}
+.first{
+  background-color: rgb(119, 231, 44);
+  padding: 25px;
+  border-radius: 5%;
+  opacity: 0.9;
+}
+.second{
+  background-color: rgb(209, 33, 233);
+  padding: 25px;
+  border-radius: 5%;
+  opacity: 0.9;
+}
+.third{
+  background-color: rgb(243, 159, 49);
+  padding: 25px;
+  border-radius: 5%;
+  opacity: 0.9;
+}
+.fourth{
+  background-color: rgb(141, 131, 236);
+  padding: 25px;
+  border-radius: 5%;
+  opacity: 0.9;
+}
