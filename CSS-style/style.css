@@ -1,8 +1,5 @@
-.inner-class{
-  color: white;
-}
-.btn-row button{
-background-color: black; 
+.inner-class{color: white;}
+.btn-row button{background-color: black; 
 border: 2px solid white; 
 color: white;
 padding: 10px 24px;
@@ -10,33 +7,17 @@ cursor: pointer;
 float: left;
 border-radius: 0%;
 margin-left: auto;
-margin-right: auto;
-}
-.btn-row button:not(:last-child) {
-border-right: none;
-}
-.btn-row button:hover {
-  background-color: #b6b7bd;
+margin-right: auto;}
+.btn-row button:not(:last-child) {border-right: none;}
+.btn-row button:hover {background-color: #b6b7bd;
 color: black;
 border-radius: 5%;
-border: 2px solid black;
-}
-h5{
-  color: white;
-  text-align: center;
-}
-p{
-  color: white;
-  text-align: center;
-}
-a{
-  color: white;
-}
-footer{
-  background-color: rgb(36, 32, 32);
-}
-.goto{
-  background-color: black; 
+border: 2px solid black;}
+h5{color: white; text-align: center;}
+p{color: white; text-align: center;}
+a{color: white;}
+footer{background-color: rgb(36, 32, 32);}
+.goto{background-color: black; 
 border: 2px solid white; 
 color: white;
 padding: 10px 24px;
@@ -44,12 +25,9 @@ cursor: pointer;
 border-radius: 20%;
 margin-left: 50%;
 margin-right: 50%;
-width: 150px;
-}
-.goto:hover{
-  background-color: #b6b7bd;
+width: 150px;}
+.goto:hover{background-color: #b6b7bd;
 color: black;
 border-radius: 5%;
 border: 2px solid black;
-border-radius: 20%;
-}
+border-radius: 20%;}
