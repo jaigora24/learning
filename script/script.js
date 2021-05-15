@@ -18,3 +18,11 @@ function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
+
+/*In jQuery (which i used)*/
+
+function scrollToTop() {
+
+  $(window).scrollTop(0);
+
+}
