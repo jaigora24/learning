@@ -5,5 +5,3 @@ A website which provide learning resources on different languages/ technologies 
 Tech Used: HTML, CSS, jQuery
 
 Deployment Tool: Netlify
-
-Live at https://freelearningresources.netlify.app/
